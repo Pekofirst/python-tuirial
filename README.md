@@ -82,4 +82,5 @@ def startorstop():
         Button.config=not Button.config
         timer=clock()
 ````
+oops!and i have not find a perfect gui yet.Maybe i can consider the vue3?
 
