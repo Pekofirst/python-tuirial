@@ -26,7 +26,7 @@ i have scheduled its functions:it can take down the time i study and add them up
 when i wanna play games or relax,it can count down the 'time container' to make sure i would not paly too much.
 i have got a timer and the 'note-down' function.but i still misunderstand how to solve the count-down function.
 i would try other ways.
-''''python
+````python
 from time import sleep
 class clock:
     def __init__(self,hour=0,minute=0,second=0,swith=True):
@@ -81,5 +81,5 @@ def startorstop():
     if Button["text"]==True:
         Button.config=not Button.config
         timer=clock()
-''''
+````
 
