@@ -18,3 +18,5 @@ I can be sure i know why they done like this,they are same as me.I have live for
 i want to see my daily-life can be changed since i have been dizzy during past 2 years.  
 hope this dairy will keep an eye on what i am doing everyday so i won't be so down after the next 2 years.  
 sincerely,yours  
+May 13:  
+![am i a coward?](![QY@FU6TM9_Z7)WWM6SG$_OO](https://github.com/Pekofirst/python-tuirial/assets/168003043/452a3bbd-9f14-469a-96f8-8c7567e93eb3))
